@@ -141,7 +141,7 @@ JavaScript 注入 (CDP Page.addScriptToEvaluateOnNewDocument)
 
 ## 相关项目
 
-- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — AWS 自动注册，内置本指纹工具箱
+- [skills-hub](https://github.com/xuweizhengo/skills-hub) — AI 技能市场 & MCP 注册表`n- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — AWS 自动注册，内置本指纹工具箱
 - [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Cursor 免费 API 转 OpenAI/Anthropic 格式
 
 ## 许可证

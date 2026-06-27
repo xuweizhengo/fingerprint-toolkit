@@ -141,7 +141,7 @@ This project is for educational purposes and legitimate automation testing. User
 
 ## Related Projects
 
-- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — Automated AWS Builder ID registration. Uses this toolkit for anti-detection.
+- [skills-hub](https://github.com/xuweizhengo/skills-hub) — AI Skills & MCP marketplace`n- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — Automated AWS Builder ID registration. Uses this toolkit for anti-detection.
 - [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Convert Cursor free API to OpenAI/Anthropic compatible format
 
 ## License
