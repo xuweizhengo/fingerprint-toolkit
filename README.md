@@ -141,8 +141,10 @@ This project is for educational purposes and legitimate automation testing. User
 
 ## Related Projects
 
-- [skills-hub](https://github.com/xuweizhengo/skills-hub) — AI Skills & MCP marketplace`n- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — Automated AWS Builder ID registration. Uses this toolkit for anti-detection.
+- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — Automated AWS Builder ID registration. Uses this toolkit for anti-detection.
 - [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Convert Cursor free API to OpenAI/Anthropic compatible format
+- [llm-api-purity](https://github.com/xuweizhengo/llm-api-purity) — OpenAI and Claude API purity checker
+- [skills-hub](https://github.com/xuweizhengo/skills-hub) — AI Skills & MCP marketplace
 
 ## License
 
