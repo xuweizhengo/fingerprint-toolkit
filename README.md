@@ -137,6 +137,13 @@ JavaScript injection (CDP Page.addScriptToEvaluateOnNewDocument)
 
 This project is for educational purposes and legitimate automation testing. Users are responsible for complying with target website terms of service.
 
+
+
+## Related Projects
+
+- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — Automated AWS Builder ID registration. Uses this toolkit for anti-detection.
+- [cursor-free-api](https://github.com/xuweizhengo/cursor-free-api) — Convert Cursor free API to OpenAI/Anthropic compatible format
+
 ## License
 
 [MIT](LICENSE)
