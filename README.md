@@ -133,6 +133,10 @@ JavaScript injection (CDP Page.addScriptToEvaluateOnNewDocument)
   Runs BEFORE any page script — invisible to detection
 ```
 
+## Responsible Use
+
+Use this toolkit for controlled testing, QA automation, and privacy research on systems you own or are authorized to test. Keep generated profiles consistent with your test scenario, and avoid using fingerprint randomization to impersonate real users, bypass access controls, or violate service terms.
+
 ## Disclaimer
 
 This project is for educational purposes and legitimate automation testing. Users are responsible for complying with target website terms of service.
